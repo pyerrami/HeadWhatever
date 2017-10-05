@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Headstart</string>
+    <string name="start">Start</string>
+    <string name="intro">Welcome! Please complete the following tasks as instructed, as quickly as you can. \n\nThe test will begin in:</string>
+</resources>
